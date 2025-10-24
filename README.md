@@ -29,7 +29,7 @@ The model is validated using competition-specific metrics (Gini, Recall@k, Lift@
 - **Training Customers**: 133,287
 - **Test Customers**: 43,006
 - **OOF Custom Metric**: 1.186404
-## For a detailed breakdown of the analysis and feature engineering process, see the [Full Project Report](Full_Report.md).
+## For a detailed breakdown of the analysis and feature engineering process, see the [Full Project Report](reports/Full_Report.md).
 
 ## To Run
 
