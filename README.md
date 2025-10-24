@@ -1,4 +1,4 @@
-# Churn Prediction Pipeline
+# Customer Churn Prediction Pipeline
 
 This repository contains an end-to-end machine learning pipeline for customer churn prediction, focusing on advanced temporal feature engineering from transaction logs.
 
